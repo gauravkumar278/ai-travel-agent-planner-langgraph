@@ -15,20 +15,25 @@ Setup Instructions
 1. Clone the Repository
 
 git clone https://github.com/your-username/ai-travel-agent-planner-langgraph.git
+
 cd ai-travel-agent-planner-langgraph
 
-2. **Install Dependencies**
+2. Install Dependencies
+
 pip install -r requirements.txt
 
-3. Add Your .env File
+4. Add Your .env File
+   
 OPENAI_API_KEY=your-key
 WEATHER_API_KEY=your-key
 EXCHANGE_API_KEY=your-key
 
-4. Run the App
+6. Run the App
+   
 python app/main.py
 
-5. Example Output
+8. Example Output
+   
 City: Jaipur
 Days: 3
 Weather: Sunny, 28°C
