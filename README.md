@@ -32,14 +32,20 @@ EXCHANGE_API_KEY=your-key
    
 python app/main.py
 
-8. Example Output
+5. Example Output
    
 City: Jaipur
+
 Days: 3
+
 Weather: Sunny, 28°C
+
 Top Attractions: Hawa Mahal, Amber Fort
+
 Estimated Hotel Cost: ₹15,000
+
 Converted Total Cost: ₹28,500
+
 Itinerary:
   Day 1: Visit Hawa Mahal, try local cuisine
   Day 2: Amber Fort, city tour
