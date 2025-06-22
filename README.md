@@ -22,13 +22,13 @@ cd ai-travel-agent-planner-langgraph
 
 pip install -r requirements.txt
 
-4. Add Your .env File
+3. Add Your .env File
    
 OPENAI_API_KEY=your-key
 WEATHER_API_KEY=your-key
 EXCHANGE_API_KEY=your-key
 
-6. Run the App
+4. Run the App
    
 python app/main.py
 
